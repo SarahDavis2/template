@@ -5,15 +5,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack serve --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "dev": "webpack serve --open --config webpack.dev.js",
+    "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SarahDavis2/template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sarah Davis",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SarahDavis2/template/issues"
