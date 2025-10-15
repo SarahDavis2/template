@@ -14,7 +14,8 @@
 ## Naming Conventions
 1. Capitalize first letter of comments
 2. Capitalize first letter of classes
-3. Capitalize global constants
+3. Capitalize beginning of commits
+4. Capitalize global constants
 
 ## Structure
 1. Brackets are staggered
