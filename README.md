@@ -12,18 +12,15 @@ Description.
  - Asset Name by [Name]()
 
 # Style Guide
+ - ESLint (Default)
+ - Prettier (Default)
 
 ## Naming Conventions
 1. Capitalize first letter of comments
 2. Capitalize first letter of classes
 3. Capitalize beginning of commits
 4. Capitalize global constants
-
-## Structure
-1. Brackets are staggered
-`{
-
-}`
+5. Naming Convention is camelCase
 
 # Development Process
 
@@ -36,6 +33,6 @@ Description.
 
 ## Brainstorming
 1. UI/UX Layout Design (AdobeXD)
-2. [UML Diagrams](app.diagrams.net)
+2. [UML Diagrams](app.diagrams.net) (HAS TO BE A BETTER METHOD VSCODE EXTENSION TO SHOW DIAGRAM???)
 3. Psuedocode
-4. [Flowcharts](app.diagrams.net)
+4. [Flowcharts](app.diagrams.net) 
